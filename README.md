@@ -1,0 +1,2 @@
+# banka-datorium
+BankasAplikacija
